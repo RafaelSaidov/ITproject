@@ -5,7 +5,9 @@
 
 Установка Jupyter Notebook осуществляется из cmd: 
 python3 -m pip install --upgrade pip
+
 python3 -m pip install jupyter
+
 Запуск Jupyter: jupyter notebook
 
 Необходимые библиотеки (устанавливаются также запросами из cmd):
