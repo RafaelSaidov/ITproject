@@ -1,5 +1,5 @@
 # ITproject
-ПО необходимое для запуска скриптов, импорта БД:Python версии 3+, PostgreSQL, Jupyter Notebook.
+ПО необходимое для запуска скриптов, импорта БД: Python версии 3+, PostgreSQL, Jupyter Notebook.
 
 Ссылка на скачивание Python:https://www.python.org/downloads/
 
