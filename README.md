@@ -13,14 +13,14 @@ python3 -m pip install jupyter
 
 Необходимые библиотеки (устанавливаются также запросами из cmd):
 
-pip install WeasyPrint
-pip install pyodbc
-pip install psycopg2
-pip install cairocffi
-pip install sqlalchemy
-pip install jinja2
-pip install matplotlib
-pip install pandas
+ -pip install WeasyPrint
+ -pip install pyodbc
+ -pip install psycopg2
+ -pip install cairocffi
+ -pip install sqlalchemy
+ -pip install jinja2
+ -pip install matplotlib
+ -pip install pandas
 
 Ссылка на установку PostgreSQL: https://www.postgresql.org/download/windows/
 
